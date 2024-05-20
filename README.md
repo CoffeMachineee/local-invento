@@ -2,4 +2,6 @@
 
 Hola soy Felipe Moreno inventando cositas.
 Agregando más contenido al _README.md_
-Practicando
+Practicando.
+
+Este es probablemente un código a futuro que será un video juego
